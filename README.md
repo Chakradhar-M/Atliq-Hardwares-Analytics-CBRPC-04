@@ -24,7 +24,7 @@ As an applicant for the junior data analyst role, my task is to:
 
 
 
-### `Data`
+### Data
 
 Here’s a description of the provided files:
 
@@ -36,7 +36,7 @@ Here’s a description of the provided files:
 - **demo_sql_queries.txt**: A set of demo SQL queries that can be used as a reference.
 - **atliq_hardware_db.zip**: A zipped folder containing the database file needed to run your SQL queries.
 
-### `SQL_Queries`
+### SQL_Queries
 
 This folder contains the SQL queries answering the business requests found in the `ad-hoc-requests.pdf` document.
 
