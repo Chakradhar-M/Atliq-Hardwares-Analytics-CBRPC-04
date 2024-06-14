@@ -2,10 +2,10 @@
 
 **This project is part of the resume project challenge conducted by codebasics.**
 
-## Description:
+### Description:
 SQL Challenge for Data Analysis and Insights in the Consumer Goods Domain at Atliq Hardwares. This project involves generating actionable insights for executive management by addressing specific business requests through SQL queries and presenting the findings in a comprehensive format.
 
-## Project Overview
+### Project Overview
 **Domain**: Consumer Goods
 
 **Function**: Executive Management
@@ -15,7 +15,7 @@ SQL Challenge for Data Analysis and Insights in the Consumer Goods Domain at Atl
 
 Atliq Hardwares is a leading computer hardware producer that aims to enhance its data analytics capabilities. To enable management to make quick and data-informed decisions, the company is expanding its analytics team. Tony Sharma, the Data Analytics Director, has initiated a SQL challenge to evaluate candidates for junior data analyst positions.
 
-## Objective
+### Objective
 As an applicant for the junior data analyst role, my task is to:
 
 1. Review the provided ad-hoc-requests.pdf containing 10 business requests for insights.
