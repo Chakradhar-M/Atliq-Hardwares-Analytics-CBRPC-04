@@ -22,11 +22,11 @@ As an applicant for the junior data analyst role, my task is to:
 2. Run SQL queries to answer these requests.
 3. Create a presentation to showcase the insights, targeting top-level management.
 
-## Resources Provided
 
-Here’s a description of the provided files:
 
 ### `data`
+
+Here’s a description of the provided files:
 
 - **ad-hoc-requests.pdf**: This document contains 10 ad-hoc business requests for which the management needs insights.
 - **sample_challenge_presentation.pdf**: A sample presentation that provides an example of how to present your insights effectively.
@@ -38,6 +38,6 @@ Here’s a description of the provided files:
 
 ### `SQL_Queries`
 
-This folder will contain the SQL queries written to answer the business requests found in the `ad-hoc-requests.pdf` document.
+This folder contains the SQL queries answering the business requests found in the `ad-hoc-requests.pdf` document.
 
-- **RPC_04_SQL_Queries.sql**: This SQL file contains the queries for all the ad-hoc requests.
+- **RPC_04_SQL_Queries.sql**: This SQL file contains the SQL queries for all the ad-hoc requests.
