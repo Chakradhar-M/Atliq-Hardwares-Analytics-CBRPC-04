@@ -24,7 +24,7 @@ As an applicant for the junior data analyst role, my task is to:
 
 
 
-### `data`
+### `Data`
 
 Here’s a description of the provided files:
 
